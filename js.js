@@ -8,4 +8,4 @@ $('input').on('change',function(){
 				<a href="${result.html_url}">Link to profile</a>
 				`);
 		}});
-});
+});	
