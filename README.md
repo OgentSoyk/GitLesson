@@ -19,12 +19,12 @@ This is Unordered list:
   [this is link](https://github.com/)
   [this is img]()
 
-  заходим в папку с работой и вверху пишем cmd
-  dit config --global user.email "эл. почта"
-  dit config --global user.name "имя аккаунта"
-  На каждый файл пишется git add index.html
-  git status
-  git commit -m"написать что ты добавил"
-  git push
+  ##заходим в папку с работой и вверху пишем cmd
+  ##dit config --global user.email "эл. почта"
+  ##dit config --global user.name "имя аккаунта"
+  ##На каждый файл пишется git add index.html
+  ##git status
+  ##git commit -m"написать что ты добавил"
+  ##git push
 
-  вместо git add index.html можно написать git add -A
+  ##вместо git add index.html можно написать git add -A
